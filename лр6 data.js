@@ -1,4 +1,5 @@
-count: "100г",
+@@ -334,4 +334,61 @@ const teas = [
+    count: "100г",
     image: "https://avatars.mds.yandex.net/get-mpic/4410238/2a0000019252999fb63d05c63e112b27b931/orig"
   }
 ];
